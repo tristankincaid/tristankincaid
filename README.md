@@ -14,9 +14,7 @@
 - 📫 Let's connect: [Twitter](#) | [LinkedIn](#) | [Website](#)
 
 ## 🔨 Projects & Contributions
-- 🚀 **[Project Name](#)** – A groundbreaking **Solana DeFi protocol** for seamless trading
-- 🎨 **[NFT Marketplace](#)** – Designed an intuitive, decentralized NFT platform
-- 🛡️ **Smart Contract Security Framework** – Developing guidelines for **secure dApp development**
+- 🚀 **[Exilium Labs](https://github.com/Exilium-Labs/)** – At Exilium Labs, we are at the frontier of AI and blockchain innovation, forging decentralized solutions that empower developers and communities. Through open-source collaboration, we push the boundaries of technology, creating intelligent, autonomous, and secure blockchain ecosystems.
 
 ---
 🚀 _Building the decentralized future, one smart contract at a time._
